@@ -1,6 +1,6 @@
-## Eu sou o Christian Ferreira,Estudante de programação e tecnologia em transição de carreira !
+## 👋Olá,Eu sou o Christian Ferreira,Estudante de programação e tecnologia em transição de carreira !
 -  💼  Atualmente trabalho na empresa Zap Grafica
--  👨‍💻  Sou estudante de Progração e tecnol 
+-  👨‍💻  Sou estudante de Analise e Desenvolvimento de Sistema.
 -  📧  Meu email para contato: christian.fdacr@gmail.com
 ## Eu sou o Christian Ferreira,Estudante de programação e tecnologia em transição de carreira !
 <div align="center">
