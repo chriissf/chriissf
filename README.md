@@ -1,5 +1,5 @@
 ## 👋Olá,Eu sou o Christian Ferreira,Estudante de programação e tecnologia em transição de carreira !
--  💼 Atualmente trabalho na empresa Zap Grafica
+-  💼 Trabalho na empresa Zap Grafica Online!
 -  👨‍💻 Sou estudante de Analise e Desenvolvimento de Sistema
 -  📧 Meu email para contato: christian.fdacr@gmail.com
   
