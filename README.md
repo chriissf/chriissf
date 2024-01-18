@@ -1,6 +1,6 @@
 ## 👋 Estudante de programação e tecnologia em transição de carreira!
 - 💼 Trabalho na empresa Oktz !
-- 👨‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Sou graduado em Análise e Desenvolvimento de Sistemas
 - 📧 Meu email para contato: christian.fdacr@gmail.com
 
 <div align="center">
