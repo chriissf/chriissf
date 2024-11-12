@@ -1,4 +1,4 @@
-## 👋 Estudante de programação e tecnologia em transição de carreira!
+## 👋 Desenvolvedor Java!
 - 💼 Trabalho na empresa Oktz !
 - 👨‍💻 Sou graduado em Análise e Desenvolvimento de Sistemas
 - 📧 Meu email para contato: christian.fdacr@gmail.com
